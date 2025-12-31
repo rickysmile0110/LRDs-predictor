@@ -1,4 +1,4 @@
-# CYP-predictor
+# LRDs-predictor
 
 A machine learning-based predictor for cytochrome P450 (CYP) enzyme-substrate interactions using Multiple Sequence Alignment (MSA) and CatBoost Ranker.
 
